@@ -18,4 +18,9 @@ def avaliar(cep):
 
 Fontes: [LGPD, arts. 6º, IX, e 20](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm) e [ANPD — direitos dos titulares](https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados-1/direito-dos-titulares).
 
+## Executar o exemplo
+
+Com Python 3 instalado, rode `python exemplo.py`. O arquivo usa apenas dados fictícios e inclui verificações simples com `assert`. Ele não substitui a análise jurídica nem executa ações externas.
+
+
 *Exemplo didático com CEP fictício, não aplicável a pessoas reais.*
